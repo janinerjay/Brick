@@ -6,4 +6,28 @@
 
 public class StartPanel {
 
+	//Instance Variables
+	private SpeedButton _speed1, _speed2, _speed3;
+	
+	//Constructor
+	public StartPanel() {
+		
+	}
+	
+	//Instance Methods
+	
+	//Move Slow Method
+	public void moveSlow() {
+		
+	}
+	
+	//Move Normally Method
+	public void moveNormal() {
+		
+	}
+
+	//Move Fast Method
+	public void moveFast() {
+	
+	}
 }

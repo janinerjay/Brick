@@ -6,4 +6,14 @@
 
 public class MainApp {
 
+	//Instance Variables
+	//private StartPanel _start;
+	//private DrawingPanel _panel;
+	//private GameOverPanel _over;
+	//private ControlPanel _controls;
+	
+	//Main Method
+	public static void main (String [] args) {
+		
+	}
 }

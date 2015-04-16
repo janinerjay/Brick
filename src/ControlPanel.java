@@ -6,4 +6,16 @@
 
 public class ControlPanel {
 
+	//Instance Variables
+	private ResumeButton _resume;
+	private ScoreLabel _score;
+	private RestartButton _restart;
+	
+	//Constructor
+	public ControlPanel () {
+		
+	}
+	
+	//Instance Methods
+	
 }

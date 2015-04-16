@@ -4,6 +4,23 @@
  * Brick Game
  **/
 
-public class SpeedButton {
+//Import Statements
+import javax.swing.JRadioButton;
 
+public class SpeedButton extends JRadioButton{
+
+	//Instance Variables
+	private JRadioButton _speedButton;
+	
+	//Constructor
+	public SpeedButton() {
+		
+	}
+	
+	//Instance Methods
+	
+	//Move Method
+	public void move() {
+		
+	}
 }

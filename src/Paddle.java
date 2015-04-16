@@ -6,4 +6,24 @@
 
 public class Paddle {
 
+	//Instance Variables
+	private Ball _ball;
+	private DrawingPanel _panel;
+	
+	//Constructor
+	public Paddle () {
+		
+	}
+	
+	//Instance Methods
+	
+	//Move Method
+	public void move () {
+		
+	}
+	
+	//PaddleListener class
+	private class PaddleListener {
+		
+	}
 }

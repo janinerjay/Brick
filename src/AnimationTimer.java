@@ -4,25 +4,20 @@
  * Brick Game
  **/
 
-public class Ball {
+public class AnimationTimer {
 
 	//Instance Variables
 	private DrawingPanel _panel;
 	
 	//Constructor
-	public Ball () {
-		
+	public AnimationTimer (DrawingPanel panel) {
+		_panel = panel;
 	}
 	
 	//Instance Methods
 	
-	//Move Method
-	public void move () {
-		
-	}
-	
-	//BallListener class
-	private class BallListener {
+	//MoveListener class
+	private class MoveListener implements Timer {
 		
 	}
 }
